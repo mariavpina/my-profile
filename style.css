@@ -1,0 +1,125 @@
+body {
+background-color: rgb(143, 185, 193);
+color: rgb(56, 93, 101);
+font-family: serif;
+font-size: 15px;
+text-align: center;
+
+
+
+
+
+
+}
+
+a{
+
+text-decoration: none;
+color: rgb(56, 93, 150);
+
+}
+h1{
+text-align: center;
+font-size:28px;
+
+}
+h2{
+text-align: center;
+font-size:18px;
+font-weight: revert;
+
+}
+
+a:hover {
+color: rgb(56, 93, 300);
+}
+
+div{
+background-color: rgb(170, 195, 201);
+border: 2px solid rgb(114, 142, 173);
+margin: 10px;
+border-radius: 4px;
+box-shadow: 0px 10px 30 px rgba(0,0,0,0.1);
+
+}
+
+#profile{
+width: 120px;
+border-radius: 50%;
+align-items: center;
+
+}
+
+
+
+#greengates{
+width: 50px;
+border-radius: 50%;
+border: 5px 3px 3px black;
+}
+
+#stjulians{
+width: 50px;
+border-radius: 50%;	
+border: 5px 3px 3px black;
+}
+
+
+#essec{
+width: 50px;
+border-radius: 50%;	
+border: 5px 3px 3px black;
+}
+
+
+h3{
+font-size:16.5px;
+
+}
+
+.btn-blue{
+background-color: rgb(56, 93, 150) ;
+color: rgb(170, 195, 201);
+padding: 5px 10px;
+
+
+}
+
+.btn-blue: hover{
+background-color: rgb(56, 93, 300) 
+
+
+
+}
+.list-horizontal {
+list-style: none; 
+padding-left: 0px;
+
+}
+
+.list-horizontal li {
+display: inline;
+padding: 10px;
+
+}
+.list-horizontal i{
+font-size: 50px;
+
+}
+
+.list-piano{
+list-style: none; 
+
+}
+
+.list-education{
+list-style: none;
+
+	
+}
+.list-vertical{
+list-style: none;
+
+}
+
+
